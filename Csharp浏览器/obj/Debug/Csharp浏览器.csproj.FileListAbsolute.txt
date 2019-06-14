@@ -1,0 +1,30 @@
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Csharp浏览器.exe
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Csharp浏览器.pdb
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.Form1.resources
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.Properties.Resources.resources
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.exe
+C:\Documents and Settings\user\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.pdb
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.exe
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.pdb
+D:\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Csharp浏览器.exe
+D:\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Csharp浏览器.pdb
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.Form1.resources
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.Properties.Resources.resources
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.csproj.GenerateResource.Cache
+D:\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Interop.SHDocVw.dll
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Interop.SHDocVw.dll
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.csproj.ResolveComReference.cache
+D:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.csprojResolveAssemblyReference.cache
+F:\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Csharp浏览器.exe
+F:\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Csharp浏览器.pdb
+F:\桌面\Csharp浏览器\Csharp浏览器\bin\Debug\Interop.SHDocVw.dll
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.csprojResolveAssemblyReference.cache
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Interop.SHDocVw.dll
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.csproj.ResolveComReference.cache
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.Form1.resources
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.Properties.Resources.resources
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.csproj.GenerateResource.Cache
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.exe
+F:\桌面\Csharp浏览器\Csharp浏览器\obj\Debug\Csharp浏览器.pdb
